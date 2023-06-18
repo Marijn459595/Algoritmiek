@@ -1,0 +1,7 @@
+C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\LargestPrimeFactor\bin\Debug\LargestPrimeFactor.exe.config
+C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\LargestPrimeFactor\bin\Debug\LargestPrimeFactor.exe
+C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\LargestPrimeFactor\bin\Debug\LargestPrimeFactor.pdb
+C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\LargestPrimeFactor\obj\Debug\LargestPrimeFactor.csprojAssemblyReference.cache
+C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\LargestPrimeFactor\obj\Debug\LargestPrimeFactor.csproj.CoreCompileInputs.cache
+C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\LargestPrimeFactor\obj\Debug\LargestPrimeFactor.exe
+C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\LargestPrimeFactor\obj\Debug\LargestPrimeFactor.pdb

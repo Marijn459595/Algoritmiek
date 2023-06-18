@@ -1,0 +1,13 @@
+C:\Users\marij\Documents\School\2021 - 2022 Hbo S2\S2\Algoritmiek\VisitorPlacementTool\bin\Debug\VisitorPlacementTool.exe.config
+C:\Users\marij\Documents\School\2021 - 2022 Hbo S2\S2\Algoritmiek\VisitorPlacementTool\bin\Debug\VisitorPlacementTool.exe
+C:\Users\marij\Documents\School\2021 - 2022 Hbo S2\S2\Algoritmiek\VisitorPlacementTool\bin\Debug\VisitorPlacementTool.pdb
+C:\Users\marij\Documents\School\2021 - 2022 Hbo S2\S2\Algoritmiek\VisitorPlacementTool\obj\Debug\VisitorPlacementTool.csprojAssemblyReference.cache
+C:\Users\marij\Documents\School\2021 - 2022 Hbo S2\S2\Algoritmiek\VisitorPlacementTool\obj\Debug\VisitorPlacementTool.Form1.resources
+C:\Users\marij\Documents\School\2021 - 2022 Hbo S2\S2\Algoritmiek\VisitorPlacementTool\obj\Debug\VisitorPlacementTool.Properties.Resources.resources
+C:\Users\marij\Documents\School\2021 - 2022 Hbo S2\S2\Algoritmiek\VisitorPlacementTool\obj\Debug\VisitorPlacementTool.csproj.GenerateResource.cache
+C:\Users\marij\Documents\School\2021 - 2022 Hbo S2\S2\Algoritmiek\VisitorPlacementTool\obj\Debug\VisitorPlacementTool.csproj.CoreCompileInputs.cache
+C:\Users\marij\Documents\School\2021 - 2022 Hbo S2\S2\Algoritmiek\VisitorPlacementTool\obj\Debug\VisitorPlacementTool.exe
+C:\Users\marij\Documents\School\2021 - 2022 Hbo S2\S2\Algoritmiek\VisitorPlacementTool\obj\Debug\VisitorPlacementTool.pdb
+C:\Users\marij\Documents\School\2021 - 2022 Hbo S2\S2\Algoritmiek\VisitorPlacementTool\obj\Debug\VisitorPlacementTool.frmVisitors.resources
+C:\Users\marij\Documents\School\2021 - 2022 Hbo S2\S2\Algoritmiek\VisitorPlacementTool\obj\Debug\VisitorPlacementTool.frmCreateGroup.resources
+C:\Users\marij\Documents\School\2021 - 2022 Hbo S2\S2\Algoritmiek\VisitorPlacementTool\obj\Debug\VisitorPlacementTool.frmDisplayVisitors.resources

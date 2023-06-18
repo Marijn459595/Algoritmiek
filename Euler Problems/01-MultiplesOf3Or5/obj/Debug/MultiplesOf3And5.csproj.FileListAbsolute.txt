@@ -1,0 +1,14 @@
+C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\MultiplesOf3And5\bin\Debug\MultiplesOf3And5.exe.config
+C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\MultiplesOf3And5\bin\Debug\MultiplesOf3And5.exe
+C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\MultiplesOf3And5\bin\Debug\MultiplesOf3And5.pdb
+C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\MultiplesOf3And5\obj\Debug\MultiplesOf3And5.csprojAssemblyReference.cache
+C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\MultiplesOf3And5\obj\Debug\MultiplesOf3And5.csproj.CoreCompileInputs.cache
+C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\MultiplesOf3And5\obj\Debug\MultiplesOf3And5.exe
+C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\MultiplesOf3And5\obj\Debug\MultiplesOf3And5.pdb
+C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\Euler Problems\MultiplesOf3And5\bin\Debug\MultiplesOf3And5.exe.config
+C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\Euler Problems\MultiplesOf3And5\bin\Debug\MultiplesOf3And5.exe
+C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\Euler Problems\MultiplesOf3And5\bin\Debug\MultiplesOf3And5.pdb
+C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\Euler Problems\MultiplesOf3And5\obj\Debug\MultiplesOf3And5.csprojAssemblyReference.cache
+C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\Euler Problems\MultiplesOf3And5\obj\Debug\MultiplesOf3And5.csproj.CoreCompileInputs.cache
+C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\Euler Problems\MultiplesOf3And5\obj\Debug\MultiplesOf3And5.exe
+C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\Euler Problems\MultiplesOf3And5\obj\Debug\MultiplesOf3And5.pdb

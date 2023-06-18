@@ -1,0 +1,7 @@
+C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\Euler Problems\10001stPrime\bin\Debug\10001stPrime.exe.config
+C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\Euler Problems\10001stPrime\bin\Debug\10001stPrime.exe
+C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\Euler Problems\10001stPrime\bin\Debug\10001stPrime.pdb
+C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\Euler Problems\10001stPrime\obj\Debug\10001stPrime.csproj.CoreCompileInputs.cache
+C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\Euler Problems\10001stPrime\obj\Debug\10001stPrime.exe
+C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\Euler Problems\10001stPrime\obj\Debug\10001stPrime.pdb
+C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\Euler Problems\10001stPrime\obj\Debug\10001stPrime.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\SpecialPythagoreanTriplet\bin\Debug\SpecialPythagoreanTriplet.exe.config
+C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\SpecialPythagoreanTriplet\bin\Debug\SpecialPythagoreanTriplet.exe
+C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\SpecialPythagoreanTriplet\bin\Debug\SpecialPythagoreanTriplet.pdb
+C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\SpecialPythagoreanTriplet\obj\Debug\SpecialPythagoreanTriplet.csprojAssemblyReference.cache
+C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\SpecialPythagoreanTriplet\obj\Debug\SpecialPythagoreanTriplet.csproj.CoreCompileInputs.cache
+C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\SpecialPythagoreanTriplet\obj\Debug\SpecialPythagoreanTriplet.exe
+C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\SpecialPythagoreanTriplet\obj\Debug\SpecialPythagoreanTriplet.pdb

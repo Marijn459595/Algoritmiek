@@ -1,0 +1,7 @@
+C:\Users\marij\source\repos\LargestPalindromeProduct\bin\Debug\LargestPalindromeProduct.exe.config
+C:\Users\marij\source\repos\LargestPalindromeProduct\bin\Debug\LargestPalindromeProduct.exe
+C:\Users\marij\source\repos\LargestPalindromeProduct\bin\Debug\LargestPalindromeProduct.pdb
+C:\Users\marij\source\repos\LargestPalindromeProduct\obj\Debug\LargestPalindromeProduct.csprojAssemblyReference.cache
+C:\Users\marij\source\repos\LargestPalindromeProduct\obj\Debug\LargestPalindromeProduct.csproj.CoreCompileInputs.cache
+C:\Users\marij\source\repos\LargestPalindromeProduct\obj\Debug\LargestPalindromeProduct.exe
+C:\Users\marij\source\repos\LargestPalindromeProduct\obj\Debug\LargestPalindromeProduct.pdb

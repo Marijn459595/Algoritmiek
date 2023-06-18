@@ -1,0 +1,6 @@
+C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\Euler Problems\SumSquareDifference\bin\Debug\SumSquareDifference.exe.config
+C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\Euler Problems\SumSquareDifference\bin\Debug\SumSquareDifference.exe
+C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\Euler Problems\SumSquareDifference\bin\Debug\SumSquareDifference.pdb
+C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\Euler Problems\SumSquareDifference\obj\Debug\SumSquareDifference.csproj.CoreCompileInputs.cache
+C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\Euler Problems\SumSquareDifference\obj\Debug\SumSquareDifference.exe
+C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\Euler Problems\SumSquareDifference\obj\Debug\SumSquareDifference.pdb

@@ -1,0 +1,7 @@
+C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\Euler Problems\SmallestMultiple\bin\Debug\SmallestMultiple.exe.config
+C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\Euler Problems\SmallestMultiple\bin\Debug\SmallestMultiple.exe
+C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\Euler Problems\SmallestMultiple\bin\Debug\SmallestMultiple.pdb
+C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\Euler Problems\SmallestMultiple\obj\Debug\SmallestMultiple.csprojAssemblyReference.cache
+C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\Euler Problems\SmallestMultiple\obj\Debug\SmallestMultiple.csproj.CoreCompileInputs.cache
+C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\Euler Problems\SmallestMultiple\obj\Debug\SmallestMultiple.exe
+C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\Euler Problems\SmallestMultiple\obj\Debug\SmallestMultiple.pdb
