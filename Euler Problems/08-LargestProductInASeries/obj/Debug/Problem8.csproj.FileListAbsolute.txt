@@ -1,0 +1,7 @@
+C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\Euler Problems\Problem8\bin\Debug\Problem8.exe.config
+C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\Euler Problems\Problem8\bin\Debug\Problem8.exe
+C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\Euler Problems\Problem8\bin\Debug\Problem8.pdb
+C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\Euler Problems\Problem8\obj\Debug\Problem8.csproj.CoreCompileInputs.cache
+C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\Euler Problems\Problem8\obj\Debug\Problem8.exe
+C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\Euler Problems\Problem8\obj\Debug\Problem8.pdb
+C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\Euler Problems\Problem8\obj\Debug\Problem8.csprojAssemblyReference.cache
