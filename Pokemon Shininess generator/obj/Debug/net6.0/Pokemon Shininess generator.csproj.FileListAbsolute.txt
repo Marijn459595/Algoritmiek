@@ -1,0 +1,15 @@
+C:\Users\marij\Documents\Programma's\Algoritmiek\Pokemon Shininess generator\bin\Debug\net6.0\Pokemon Shininess generator.exe
+C:\Users\marij\Documents\Programma's\Algoritmiek\Pokemon Shininess generator\bin\Debug\net6.0\Pokemon Shininess generator.deps.json
+C:\Users\marij\Documents\Programma's\Algoritmiek\Pokemon Shininess generator\bin\Debug\net6.0\Pokemon Shininess generator.runtimeconfig.json
+C:\Users\marij\Documents\Programma's\Algoritmiek\Pokemon Shininess generator\bin\Debug\net6.0\Pokemon Shininess generator.dll
+C:\Users\marij\Documents\Programma's\Algoritmiek\Pokemon Shininess generator\bin\Debug\net6.0\Pokemon Shininess generator.pdb
+C:\Users\marij\Documents\Programma's\Algoritmiek\Pokemon Shininess generator\obj\Debug\net6.0\Pokemon Shininess generator.csproj.AssemblyReference.cache
+C:\Users\marij\Documents\Programma's\Algoritmiek\Pokemon Shininess generator\obj\Debug\net6.0\Pokemon Shininess generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marij\Documents\Programma's\Algoritmiek\Pokemon Shininess generator\obj\Debug\net6.0\Pokemon Shininess generator.AssemblyInfoInputs.cache
+C:\Users\marij\Documents\Programma's\Algoritmiek\Pokemon Shininess generator\obj\Debug\net6.0\Pokemon Shininess generator.AssemblyInfo.cs
+C:\Users\marij\Documents\Programma's\Algoritmiek\Pokemon Shininess generator\obj\Debug\net6.0\Pokemon Shininess generator.csproj.CoreCompileInputs.cache
+C:\Users\marij\Documents\Programma's\Algoritmiek\Pokemon Shininess generator\obj\Debug\net6.0\Pokemon Shininess generator.dll
+C:\Users\marij\Documents\Programma's\Algoritmiek\Pokemon Shininess generator\obj\Debug\net6.0\refint\Pokemon Shininess generator.dll
+C:\Users\marij\Documents\Programma's\Algoritmiek\Pokemon Shininess generator\obj\Debug\net6.0\Pokemon Shininess generator.pdb
+C:\Users\marij\Documents\Programma's\Algoritmiek\Pokemon Shininess generator\obj\Debug\net6.0\Pokemon Shininess generator.genruntimeconfig.cache
+C:\Users\marij\Documents\Programma's\Algoritmiek\Pokemon Shininess generator\obj\Debug\net6.0\ref\Pokemon Shininess generator.dll
