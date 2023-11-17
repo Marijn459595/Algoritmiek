@@ -1,0 +1,8 @@
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\13-LargeSum\bin\Debug\LargeSum.exe.config
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\13-LargeSum\bin\Debug\LargeSum.exe
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\13-LargeSum\bin\Debug\LargeSum.pdb
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\13-LargeSum\obj\Debug\LargeSum.csproj.AssemblyReference.cache
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\13-LargeSum\obj\Debug\LargeSum.csproj.SuggestedBindingRedirects.cache
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\13-LargeSum\obj\Debug\LargeSum.csproj.CoreCompileInputs.cache
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\13-LargeSum\obj\Debug\LargeSum.exe
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\13-LargeSum\obj\Debug\LargeSum.pdb

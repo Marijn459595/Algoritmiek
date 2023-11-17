@@ -5,3 +5,11 @@ C:\Users\marij\source\repos\LargestPalindromeProduct\obj\Debug\LargestPalindrome
 C:\Users\marij\source\repos\LargestPalindromeProduct\obj\Debug\LargestPalindromeProduct.csproj.CoreCompileInputs.cache
 C:\Users\marij\source\repos\LargestPalindromeProduct\obj\Debug\LargestPalindromeProduct.exe
 C:\Users\marij\source\repos\LargestPalindromeProduct\obj\Debug\LargestPalindromeProduct.pdb
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\04-LargestPalindromeProduct\bin\Debug\LargestPalindromeProduct.exe.config
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\04-LargestPalindromeProduct\bin\Debug\LargestPalindromeProduct.exe
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\04-LargestPalindromeProduct\bin\Debug\LargestPalindromeProduct.pdb
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\04-LargestPalindromeProduct\obj\Debug\LargestPalindromeProduct.csproj.AssemblyReference.cache
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\04-LargestPalindromeProduct\obj\Debug\LargestPalindromeProduct.csproj.SuggestedBindingRedirects.cache
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\04-LargestPalindromeProduct\obj\Debug\LargestPalindromeProduct.csproj.CoreCompileInputs.cache
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\04-LargestPalindromeProduct\obj\Debug\LargestPalindromeProduct.exe
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\04-LargestPalindromeProduct\obj\Debug\LargestPalindromeProduct.pdb

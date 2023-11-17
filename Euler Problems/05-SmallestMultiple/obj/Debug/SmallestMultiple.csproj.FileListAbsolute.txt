@@ -5,3 +5,11 @@ C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\Euler Problems\Smalle
 C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\Euler Problems\SmallestMultiple\obj\Debug\SmallestMultiple.csproj.CoreCompileInputs.cache
 C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\Euler Problems\SmallestMultiple\obj\Debug\SmallestMultiple.exe
 C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\Euler Problems\SmallestMultiple\obj\Debug\SmallestMultiple.pdb
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\05-SmallestMultiple\bin\Debug\SmallestMultiple.exe.config
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\05-SmallestMultiple\bin\Debug\SmallestMultiple.exe
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\05-SmallestMultiple\bin\Debug\SmallestMultiple.pdb
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\05-SmallestMultiple\obj\Debug\SmallestMultiple.csproj.AssemblyReference.cache
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\05-SmallestMultiple\obj\Debug\SmallestMultiple.csproj.SuggestedBindingRedirects.cache
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\05-SmallestMultiple\obj\Debug\SmallestMultiple.csproj.CoreCompileInputs.cache
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\05-SmallestMultiple\obj\Debug\SmallestMultiple.exe
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\05-SmallestMultiple\obj\Debug\SmallestMultiple.pdb

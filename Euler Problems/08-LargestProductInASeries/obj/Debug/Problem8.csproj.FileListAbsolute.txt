@@ -5,3 +5,11 @@ C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\Euler Problems\Proble
 C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\Euler Problems\Problem8\obj\Debug\Problem8.exe
 C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\Euler Problems\Problem8\obj\Debug\Problem8.pdb
 C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\Euler Problems\Problem8\obj\Debug\Problem8.csprojAssemblyReference.cache
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\08-LargestProductInASeries\bin\Debug\Problem8.exe.config
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\08-LargestProductInASeries\bin\Debug\Problem8.exe
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\08-LargestProductInASeries\bin\Debug\Problem8.pdb
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\08-LargestProductInASeries\obj\Debug\Problem8.csproj.AssemblyReference.cache
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\08-LargestProductInASeries\obj\Debug\Problem8.csproj.SuggestedBindingRedirects.cache
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\08-LargestProductInASeries\obj\Debug\Problem8.csproj.CoreCompileInputs.cache
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\08-LargestProductInASeries\obj\Debug\Problem8.exe
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\08-LargestProductInASeries\obj\Debug\Problem8.pdb

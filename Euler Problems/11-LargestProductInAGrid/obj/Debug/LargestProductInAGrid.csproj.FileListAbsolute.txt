@@ -5,3 +5,11 @@ C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\LargestProductInAGrid
 C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\LargestProductInAGrid\obj\Debug\LargestProductInAGrid.csproj.CoreCompileInputs.cache
 C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\LargestProductInAGrid\obj\Debug\LargestProductInAGrid.exe
 C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\LargestProductInAGrid\obj\Debug\LargestProductInAGrid.pdb
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\11-LargestProductInAGrid\bin\Debug\LargestProductInAGrid.exe.config
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\11-LargestProductInAGrid\bin\Debug\LargestProductInAGrid.exe
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\11-LargestProductInAGrid\bin\Debug\LargestProductInAGrid.pdb
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\11-LargestProductInAGrid\obj\Debug\LargestProductInAGrid.csproj.AssemblyReference.cache
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\11-LargestProductInAGrid\obj\Debug\LargestProductInAGrid.csproj.SuggestedBindingRedirects.cache
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\11-LargestProductInAGrid\obj\Debug\LargestProductInAGrid.csproj.CoreCompileInputs.cache
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\11-LargestProductInAGrid\obj\Debug\LargestProductInAGrid.exe
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\11-LargestProductInAGrid\obj\Debug\LargestProductInAGrid.pdb

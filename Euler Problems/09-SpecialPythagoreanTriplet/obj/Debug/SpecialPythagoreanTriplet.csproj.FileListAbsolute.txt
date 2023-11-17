@@ -5,3 +5,11 @@ C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\SpecialPythagoreanTri
 C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\SpecialPythagoreanTriplet\obj\Debug\SpecialPythagoreanTriplet.csproj.CoreCompileInputs.cache
 C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\SpecialPythagoreanTriplet\obj\Debug\SpecialPythagoreanTriplet.exe
 C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\SpecialPythagoreanTriplet\obj\Debug\SpecialPythagoreanTriplet.pdb
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\09-SpecialPythagoreanTriplet\bin\Debug\SpecialPythagoreanTriplet.exe.config
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\09-SpecialPythagoreanTriplet\bin\Debug\SpecialPythagoreanTriplet.exe
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\09-SpecialPythagoreanTriplet\bin\Debug\SpecialPythagoreanTriplet.pdb
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\09-SpecialPythagoreanTriplet\obj\Debug\SpecialPythagoreanTriplet.csproj.AssemblyReference.cache
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\09-SpecialPythagoreanTriplet\obj\Debug\SpecialPythagoreanTriplet.csproj.SuggestedBindingRedirects.cache
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\09-SpecialPythagoreanTriplet\obj\Debug\SpecialPythagoreanTriplet.csproj.CoreCompileInputs.cache
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\09-SpecialPythagoreanTriplet\obj\Debug\SpecialPythagoreanTriplet.exe
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\09-SpecialPythagoreanTriplet\obj\Debug\SpecialPythagoreanTriplet.pdb

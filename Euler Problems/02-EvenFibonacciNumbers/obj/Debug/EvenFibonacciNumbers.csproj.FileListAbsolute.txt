@@ -12,3 +12,11 @@ C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\Euler Problems\EvenFi
 C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\Euler Problems\EvenFibonacciNumbers\obj\Debug\EvenFibonacciNumbers.csproj.CoreCompileInputs.cache
 C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\Euler Problems\EvenFibonacciNumbers\obj\Debug\EvenFibonacciNumbers.exe
 C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\Euler Problems\EvenFibonacciNumbers\obj\Debug\EvenFibonacciNumbers.pdb
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\02-EvenFibonacciNumbers\bin\Debug\EvenFibonacciNumbers.exe.config
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\02-EvenFibonacciNumbers\bin\Debug\EvenFibonacciNumbers.exe
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\02-EvenFibonacciNumbers\bin\Debug\EvenFibonacciNumbers.pdb
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\02-EvenFibonacciNumbers\obj\Debug\EvenFibonacciNumbers.csproj.AssemblyReference.cache
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\02-EvenFibonacciNumbers\obj\Debug\EvenFibonacciNumbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\02-EvenFibonacciNumbers\obj\Debug\EvenFibonacciNumbers.csproj.CoreCompileInputs.cache
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\02-EvenFibonacciNumbers\obj\Debug\EvenFibonacciNumbers.exe
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\02-EvenFibonacciNumbers\obj\Debug\EvenFibonacciNumbers.pdb

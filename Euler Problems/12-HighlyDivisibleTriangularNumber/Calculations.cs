@@ -13,34 +13,35 @@ namespace HighlyDivisibleTriangularNumber
             int factors = 0;
             long number = 0;
             int index = 1;
-            while (factors != 500)
+            int lastFactors = 0;
+            while (factors <= 500)
             {
-                number = Next(number, index);
+                number += index;
                 index++;
                 factors = FindFactors(number);
+                if (factors > lastFactors)
+                {
+                    lastFactors = factors;
+                    Console.WriteLine(lastFactors);
+                }
             }
             Console.WriteLine(number);
         }
 
-        private long Next(long number, int index)
-        {
-            number += index;
-            return number;
-        }
-
         private int FindFactors(long number)
         {
-            long temp = 1;
             int amount = 0;
-            while (temp <= number / 2)
+            for (long i = 1; i * i <= number; i++)
             {
-                if (number % temp == 0)
+                if (number % i == 0)
                 {
                     amount++;
+                    if (i != number / i)
+                    {
+                        amount++;
+                    }
                 }
-                temp++;
             }
-            amount++;
             return amount;
         }
     }

@@ -4,3 +4,11 @@ C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\SummationOfPrimes\bin
 C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\SummationOfPrimes\obj\Debug\SummationOfPrimes.csproj.CoreCompileInputs.cache
 C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\SummationOfPrimes\obj\Debug\SummationOfPrimes.exe
 C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\SummationOfPrimes\obj\Debug\SummationOfPrimes.pdb
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\10-SummationOfPrimes\bin\Debug\SummationOfPrimes.exe.config
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\10-SummationOfPrimes\bin\Debug\SummationOfPrimes.exe
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\10-SummationOfPrimes\bin\Debug\SummationOfPrimes.pdb
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\10-SummationOfPrimes\obj\Debug\SummationOfPrimes.csproj.AssemblyReference.cache
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\10-SummationOfPrimes\obj\Debug\SummationOfPrimes.csproj.SuggestedBindingRedirects.cache
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\10-SummationOfPrimes\obj\Debug\SummationOfPrimes.csproj.CoreCompileInputs.cache
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\10-SummationOfPrimes\obj\Debug\SummationOfPrimes.exe
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\10-SummationOfPrimes\obj\Debug\SummationOfPrimes.pdb

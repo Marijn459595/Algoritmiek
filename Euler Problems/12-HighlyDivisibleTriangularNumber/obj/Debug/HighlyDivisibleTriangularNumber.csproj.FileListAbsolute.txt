@@ -4,3 +4,11 @@ C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\HighlyDivisibleTriang
 C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\HighlyDivisibleTriangularNumber\obj\Debug\HighlyDivisibleTriangularNumber.csproj.CoreCompileInputs.cache
 C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\HighlyDivisibleTriangularNumber\obj\Debug\HighlyDivisibleTriangularNumber.exe
 C:\Users\marij\Documents\School\2020 - 2021 Hbo 1\Software\HighlyDivisibleTriangularNumber\obj\Debug\HighlyDivisibleTriangularNumber.pdb
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\12-HighlyDivisibleTriangularNumber\bin\Debug\HighlyDivisibleTriangularNumber.exe.config
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\12-HighlyDivisibleTriangularNumber\bin\Debug\HighlyDivisibleTriangularNumber.exe
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\12-HighlyDivisibleTriangularNumber\bin\Debug\HighlyDivisibleTriangularNumber.pdb
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\12-HighlyDivisibleTriangularNumber\obj\Debug\HighlyDivisibleTriangularNumber.csproj.AssemblyReference.cache
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\12-HighlyDivisibleTriangularNumber\obj\Debug\HighlyDivisibleTriangularNumber.csproj.SuggestedBindingRedirects.cache
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\12-HighlyDivisibleTriangularNumber\obj\Debug\HighlyDivisibleTriangularNumber.csproj.CoreCompileInputs.cache
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\12-HighlyDivisibleTriangularNumber\obj\Debug\HighlyDivisibleTriangularNumber.exe
+C:\Users\marij\Documents\Programma's\Algoritmiek\Euler Problems\12-HighlyDivisibleTriangularNumber\obj\Debug\HighlyDivisibleTriangularNumber.pdb
